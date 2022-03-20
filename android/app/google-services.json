@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "580078030526",
+    "project_id": "blocknotes-26fee",
+    "storage_bucket": "blocknotes-26fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580078030526:android:749c4f4bfbd465639998ef",
+        "android_client_info": {
+          "package_name": "com.z08_agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580078030526-t5pi7cdb6fv3v60cgcckeg59t9ai2c16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9L0zlir7cVXM9oup_-UOFA6d1D1Z1Wio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580078030526-t5pi7cdb6fv3v60cgcckeg59t9ai2c16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
